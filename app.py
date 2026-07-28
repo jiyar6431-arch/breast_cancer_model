@@ -146,9 +146,9 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="teal", neutral_hue="slate")) as
     gr.Markdown("""
     ---
     ### 👨‍💻 About the Developer
-    **Created by:** Chandan Saroj (MERN Stack Developer & SDE)
+    **Created by:**Jiya
     * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-    * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
+    * **GitHub:** [Check out my projects](https://github.com/jiyar6431-arch)
     """)
 
     # Wire up the logic exactly in the order of the dataset
@@ -171,4 +171,3 @@ if __name__ == "__main__":
         server_name="0.0.0.0",
         server_port=port,
     )
-    
